@@ -1,5 +1,6 @@
 # TechnoHacks-Calculator
-Made a calculator that preform basic math opreration.
+Build a calculator that preform basic math opreration.
+
  **TechStack used in this** 
 HTML, CSS and JavaScript
 
